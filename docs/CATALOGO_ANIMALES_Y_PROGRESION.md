@@ -232,3 +232,80 @@ La granja tendrá secciones claras: Animales, Incubadora, Tiendas, Producción, 
 10. Balance, pruebas de seguridad y lanzamiento.
 
 **Regla de oro:** cada animal debe hacer que el jugador piense “esto cambia la forma en que funciona mi granja”. La rareza debe emocionar, la progresión debe ser justa y ninguna compra debe ser necesaria para conseguir las criaturas más especiales.
+
+
+## 12. Campaña por fases: liberar cada especie
+
+Cada nueva especie importante representa una **fase o capítulo** de la aventura. El jugador no desbloquea simplemente una tienda: descubre que esa especie vive bajo el control de un ejemplar dominante, un jefe de su misma especie que se comporta como un patrón abusivo. La misión consiste en derrotarlo, liberar al grupo y ganarse su confianza.
+
+El jefe puede ser llamado coloquialmente “el patrón” o “el capo” de esa especie. Es una figura antagonista de ficción, no una referencia sexual. El tono será de aventura y humor, apto para público amplio.
+
+### Estructura de cada fase
+
+1. **Descubrimiento:** una pista, personaje o pedido revela que una especie necesita ayuda.
+2. **Llegada a la zona:** se abre una región temática con decoración, obstáculos y recursos propios.
+3. **Investigación:** el jugador realiza pequeñas tareas para conocer el problema y preparar el enfrentamiento.
+4. **Desafío previo:** reúne recursos, mejora herramientas o usa habilidades de animales ya liberados.
+5. **Encuentro con el patrón:** jefe grande y reconocible de la misma especie, con nombre, personalidad y movimientos propios.
+6. **Combate de varias etapas:** leer patrones, esquivar, usar herramientas y aprovechar el entorno. No debe resolverse solo haciendo clic repetidamente.
+7. **Liberación:** al vencer, el grupo queda libre y se abre la posibilidad de comprar huevos de esa especie, recibir un ejemplar inicial o completar una misión para conseguirlo.
+8. **Nueva ventaja:** se desbloquea su producto, instalación, habilidad o tienda.
+9. **Revancha opcional:** el jefe puede volver en dificultad superior para premios cosméticos, materiales o títulos, nunca para bloquear el progreso básico ya ganado.
+
+La derrota debe ser caricaturesca y no gráfica: el jefe se rinde, pierde su insignia de control o huye de forma cómica. No se muestra sangre ni maltrato animal explícito. La historia presenta al jugador como quien libera y cuida, no como quien explota.
+
+### Fases iniciales propuestas
+
+| Fase | Zona y jefe | Mecánica distintiva | Recompensa de progreso |
+|---|---|---|---|
+| 1. El gallinero tomado | Gallinero viejo — **Don Clueco**, gallo patrón | Esquivar embestidas, activar cintas y devolver huevos robados a sus nidos | Gallinas, incubadora y producción de huevos |
+| 2. El estanque cerrado | Laguna — **Capitán Cuac**, pato dominante | Saltos entre plataformas, corrientes de agua y recuperación de plumas | Patos, plumas y pedidos de aves |
+| 3. La pradera de lana | Prado — **Barón Borrego**, carnero jefe | Evitar cargas, cortar obstáculos de lana y usar el terreno | Ovejas, lana y telar |
+| 4. El establo de leche | Lechería abandonada — **Don Mugido**, toro patrón | Resolver válvulas, esquivar cargas y activar máquinas | Vacas, leche y lechería |
+| 5. El corral de raíces | Bosque de barro — **El Gran Trufón**, cerdo jefe | Rastrear huellas, encontrar rutas y esquivar excavaciones | Cerdos, abono y búsqueda de recursos |
+| 6. La montaña del viento | Sendero alto — **Relámpago**, caballo dominante | Carrera con obstáculos, curvas, resistencia y control de velocidad | Caballos, transporte y entregas rápidas |
+| 7. El panal sellado | Jardín — **Reina Zumbadora**, abeja antagonista | Recorrer un laberinto, activar flores y evitar enjambres | Abejas, miel y polinización |
+| 8. La quebrada de carga | Cañón — **El Capataz**, burro dominante | Transportar cargas, equilibrar peso y superar caminos | Burros y capacidad de carga |
+
+Los nombres son provisionales y se podrán ajustar para dar personalidad y humor a cada jefe.
+
+### Fases futuras
+
+Se podrán incorporar capítulos para cabras, conejos, pavos, gansos, búfalos, alpacas, llamas, avestruces, camellos, perros pastores y gatos granjeros. Los animales de apoyo también pueden tener fases de confianza o rescate en lugar de una pelea tradicional; por ejemplo, ganarse a un perro pastor completando una prueba de conducción del rebaño.
+
+No todas las especies necesitan un jefe de combate. La regla es que cada especie nueva tenga una fase memorable. Para animales pacíficos o de apoyo, la fase puede resolverse con una prueba de habilidad, rescate, carrera, búsqueda o cooperación.
+
+### Jefes: diseño y reglas
+
+- Cada jefe pertenece a la especie que controla; silueta, tamaño, voz, animación y patrón deben identificarlo inmediatamente.
+- El jefe tiene varias etapas y ataques anunciados visualmente para que el jugador pueda aprenderlos.
+- La dificultad escala con equipo y habilidades disponibles, no con compras de Robux.
+- La derrota se valida en el servidor; el cliente no puede declarar que ganó.
+- Se guardan de forma persistente la fase desbloqueada y las recompensas para evitar repetir el jefe por errores de conexión.
+- Se permite jugar en equipo, con contribuciones claras y recompensas equilibradas.
+- Debe existir una opción de volver a intentar sin perder animales, monedas ni progreso.
+- Los jefes de campaña no son animales dorados y derrotarlos no consume ni ocupa el cupo de dos dorados.
+
+### Relación entre fases, tiendas y huevos
+
+La tienda de una especie aparece después de liberar su zona y cumplir el nivel mínimo. A partir de entonces:
+- se habilita la tienda o puesto de esa especie;
+- se pueden comprar sus huevos cuando corresponda, con contenido explicado;
+- se desbloquean instalaciones y pedidos asociados;
+- se ofrecen desafíos secundarios para obtener variantes normales, cosméticas o animales de apoyo;
+- el jugador puede volver a la zona para misiones y recompensas opcionales.
+
+Así se conserva la idea original: todo empieza comprando huevos, pero el mundo se va abriendo a medida que el jugador demuestra que puede cuidar y gestionar nuevas especies.
+
+### Campaña y multijugador
+
+Los jefes principales se podrán enfrentar en solitario o en grupo. En cooperativo, cada jugador puede aportar una función: distraer al jefe, activar mecanismos, transportar recursos o usar habilidades de sus animales. La recompensa de desbloqueo se acredita a todos los participantes elegibles que hayan contribuido, evitando que alguien se quede sin progreso por un golpe final de otro jugador.
+
+### Secuencia de producción recomendada
+
+- Primera entrega jugable: fase 1, Don Clueco, gallinero, huevos, incubación y gallinas.
+- Segunda entrega: fase 2 y fase 3, pato y oveja.
+- Tercera entrega: fase 4, vacas y lechería.
+- Luego ampliar el catálogo de fases de acuerdo con las métricas y el tiempo real de desarrollo.
+
+**Objetivo narrativo:** cada especie nueva no es un botón más en una tienda; es una pequeña aventura que el jugador recuerda y una comunidad animal que ayuda a liberar y sumar a su granja.
