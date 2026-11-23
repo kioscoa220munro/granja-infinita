@@ -16,12 +16,16 @@ El jugador comienza con huevos y su primera gallina. A partir de ahí produce, r
 - [x] Landing page responsive en español.
 - [x] Identidad visual inicial.
 - [x] Concepto y pilares del juego documentados.
-- [ ] Prototipo jugable en Roblox Studio.
+- [x] Scripts iniciales del prototipo Roblox: mundo 3D, tienda, incubadora, producción, venta, HUD y guardado base (pendiente de prueba en Studio).
 - [ ] Economía inicial simulada y balanceada.
 - [ ] Persistencia y guardado seguro.
 - [ ] Cooperativas y comercio.
 - [ ] Sistema de hallazgos legendarios.
 - [ ] Pruebas y lanzamiento.
+
+## Prototipo Roblox
+
+Los scripts Luau y la guía de instalación están en la carpeta `roblox/`. El servidor genera el suelo, la plaza, la tienda, el gallinero, la incubadora, el puesto de venta y edificios decorativos. Consultá `roblox/INSTALACION_Y_PRUEBAS.md` para instalarlos en Roblox Studio. El prototipo todavía requiere pruebas reales y no equivale al juego completo publicado.
 
 ## Sitio web
 
